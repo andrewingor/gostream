@@ -1,0 +1,2 @@
+# gostream
+Go IO stream
